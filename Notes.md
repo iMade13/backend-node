@@ -39,9 +39,17 @@
 
 *Las queries*: van a permitirte añadir información extra a los datos que queramos enviarle al servidor.
 
+Iniciar con: npm init
+
 ************************************************************************
 
-Iniciar con: npm init
+cache-control: para setear imagenes 
+user-agent: para saber donde navega
+accept y accept-encoding
+
+¿Qué implica construir un backend?
+R: 
+
 
 
 
